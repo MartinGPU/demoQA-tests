@@ -1,8 +1,8 @@
-package guru.qa;
+package guru.qa.docs;
 
 import org.junit.jupiter.api.*;
 
-public class DemoQATest {
+public class Junit5Examples {
     @BeforeAll
     static void beforeAll(){
         System.out.println("Самый первый и единственный в иерархии\n");
